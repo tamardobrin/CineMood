@@ -3,3 +3,7 @@ uvicorn
 openai
 httpx
 python-dotenv
+transformers
+torch
+accelerate
+sentencepiece
